@@ -7,13 +7,13 @@
   },
   "license": "MIT",
   "dependencies": {
+    "argparse": "~0.1.15",
     "express": "3.4.0",
-    "request": "~2.27.0",
-    "underscore": "~1.5.2",
-    "socket.io": "~0.9.16",
-    "q": "~0.9.7",
     "node-persist": "0.0.1",
-    "argparse": "~0.1.15"
+    "q": "^0.9.7",
+    "request": "~2.27.0",
+    "socket.io": "~0.9.16",
+    "underscore": "~1.5.2"
   },
   "keywords": [
     "pm2",
@@ -22,8 +22,8 @@
     "tools",
     "sysadmin"
   ],
-  "repository":{
-    "type" : "git",
-    "url" : "git://github.com/south11235/pm2dashboard"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/south11235/pm2dashboard"
   }
 }

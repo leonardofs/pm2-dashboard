@@ -20,7 +20,7 @@ parser.addArgument(
   ['-p', '--port'],
   {
     help: 'PM2Dashboard HTTP listen port',
-    defaultValue: 3000
+    defaultValue: 4040
   }
 );
 parser.addArgument(
