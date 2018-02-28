@@ -9,7 +9,7 @@ $ pm2 start App.js
 ````
 Point your browser towards
 ````bash
-http://localhost:4040
+http://localhost:4040/?key=<access_key>
 ````
 
 
